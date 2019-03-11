@@ -1,1 +1,3 @@
 bin/
+obj/debug/
+obj/release/

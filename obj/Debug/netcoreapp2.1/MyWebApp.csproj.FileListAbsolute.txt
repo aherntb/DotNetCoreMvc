@@ -26,3 +26,13 @@ C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\DotNetC
 C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\DotNetCoreMvc\obj\Debug\netcoreapp2.1\MyWebApp.RazorTargetAssemblyInfo.cache
 C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\DotNetCoreMvc\obj\Debug\netcoreapp2.1\MyWebApp.dll
 C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\DotNetCoreMvc\obj\Debug\netcoreapp2.1\MyWebApp.pdb
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\DotNetCoreMvc\bin\Debug\netcoreapp2.1\MyWebApp.Views.dll
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\DotNetCoreMvc\bin\Debug\netcoreapp2.1\MyWebApp.Views.pdb
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\DotNetCoreMvc\obj\Debug\netcoreapp2.1\MyWebApp.TagHelpers.input.cache
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\DotNetCoreMvc\obj\Debug\netcoreapp2.1\MyWebApp.TagHelpers.output.cache
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\DotNetCoreMvc\obj\Debug\netcoreapp2.1\MyWebApp.RazorCoreGenerate.cache
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\DotNetCoreMvc\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\DotNetCoreMvc\obj\Debug\netcoreapp2.1\MyWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\DotNetCoreMvc\obj\Debug\netcoreapp2.1\MyWebApp.Views.pdb
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\DotNetCoreMvc\obj\Debug\netcoreapp2.1\MyWebApp.csproj.CopyComplete
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\DotNetCoreMvc\obj\Debug\netcoreapp2.1\Razor\Pages\Brian.g.cshtml.cs
