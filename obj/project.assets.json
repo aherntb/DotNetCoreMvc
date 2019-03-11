@@ -11802,11 +11802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bahern\\OneDrive - DeCare Systems Ireland\\Documents\\DSI\\Learning\\MyWebApp\\MyWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\bahern\\OneDrive - DeCare Systems Ireland\\Documents\\DSI\\Learning\\DotNetCoreMvc\\MyWebApp.csproj",
       "projectName": "MyWebApp",
-      "projectPath": "C:\\Users\\bahern\\OneDrive - DeCare Systems Ireland\\Documents\\DSI\\Learning\\MyWebApp\\MyWebApp.csproj",
+      "projectPath": "C:\\Users\\bahern\\OneDrive - DeCare Systems Ireland\\Documents\\DSI\\Learning\\DotNetCoreMvc\\MyWebApp.csproj",
       "packagesPath": "C:\\Users\\bahern\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bahern\\OneDrive - DeCare Systems Ireland\\Documents\\DSI\\Learning\\MyWebApp\\obj\\",
+      "outputPath": "C:\\Users\\bahern\\OneDrive - DeCare Systems Ireland\\Documents\\DSI\\Learning\\DotNetCoreMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
